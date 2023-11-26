@@ -42,4 +42,4 @@ def par():
     return print_date(f'{args.number}-ый {args.weekday} {args.month}')
 
 print(par())
-# print(print_date("77-й четверг ноября"))
+print(print_date("77-й четверг ноября"))
